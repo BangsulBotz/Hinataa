@@ -10,7 +10,7 @@ global.APIs = {
 global.owner = ['6282268881337']
 global.premium = ['6282268881337']
 global.youtube = 'https://youtube.com/c/Riy'
-global.ownername = 'Riy'
+global.ownername = 'bangsulstart'
 global.botname ='bangul-botz'
 global.donasi = {
     saweria: 'https://saweria.co/riy20',
